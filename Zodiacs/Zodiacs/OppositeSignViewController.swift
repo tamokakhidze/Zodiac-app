@@ -75,7 +75,7 @@ class OppositeSignViewController: UIViewController {
             signLabel.text = capricorn.polarSign
             image.image = UIImage(named: "kiborchxalaaaa")
         case "ლომი":
-            signLabel.text = aquarius.polarSign
+            signLabel.text = leo.polarSign
             image.image = UIImage(named: "me")
         case "ქალწული":
             signLabel.text = virgo.polarSign
